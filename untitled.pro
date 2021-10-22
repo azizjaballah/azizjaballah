@@ -18,12 +18,14 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
     client.cpp \
     dialog.cpp \
+    enseignant.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
     client.h \
     dialog.h \
+    enseignant.h \
     mainwindow.h
 
 FORMS += \
