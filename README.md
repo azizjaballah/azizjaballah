@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aziz Jaballah AKA Sprita</h1>
 <h3 align="center">A passionate cybersecurity student from Tunisia currently living in Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizjaballah" alt="azizjaballah" /></a> </p>
-
 - 🌱 I’m currently learning **Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/azizjaballah/portfolio](https://github.com/azizjaballah/portfolio)
