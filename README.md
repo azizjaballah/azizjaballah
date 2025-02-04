@@ -36,7 +36,7 @@ Some of my notable projects:
 #### 🖥️ **Operating Systems & Security Tools**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://brandfetch.com/wazuh.com" alt="Wazuh" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAppJail-makejails%2Fwazuh&psig=AOvVaw1YpX_EkooS1Vlzrtf_08IO&ust=1738783824769000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjk-9PgqosDFQAAAAAdAAAAABAJ" alt="Wazuh" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Stack" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/>
