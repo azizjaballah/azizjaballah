@@ -61,13 +61,4 @@ Some of my notable projects:
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizjaballah&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azizjaballah&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
 ⭐ **Follow me for more updates!** 🚀
